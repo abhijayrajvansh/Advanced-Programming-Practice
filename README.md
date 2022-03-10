@@ -38,6 +38,9 @@ To Add Channels in Anaconda :
 conda config --add channels {channel-name} ; ex:- conda-forge
 
 conda config --show channels
+
+conda config --get channels
+
 ```
 
 
