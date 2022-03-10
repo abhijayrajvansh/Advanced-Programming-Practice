@@ -1,5 +1,5 @@
 # Advanced-Programming-Practice
 
 ```
-Author : Abhijay Rajvansh
+© 2022 Abhijay Rajvansh, All rights reserved.
 ```
