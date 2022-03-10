@@ -6,22 +6,22 @@ Professors in charge: Dr.P.Velmurugan & Dr.S.Godfrey Winster
 
 # For Setting Up Environment
 
-To Activate
+To Activate :
 ```
 conda activate
 ```
 
-To Deactivate
+To Deactivate : 
 ```
 conda deactivate
 ```
 
-For Listing Environemnt 
+For Listing Environemnt :
 ```
 conda env list
 ```
 
-To Create a Virtual Env
+To Create a Virtual Env :
 ```
 conda create --name {ENV-NAME} python=3.9
 ```
