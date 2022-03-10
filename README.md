@@ -21,6 +21,12 @@ For Listing Environemnt
 conda env list
 ```
 
+To Create a Virtual Env
+```
+conda create --name {ENV-NAME} python=3.9
+```
+Note: *Pyhton version may vary for your system*
+
 
 
 © 2022 Abhijay Rajvansh, All rights reserved.
