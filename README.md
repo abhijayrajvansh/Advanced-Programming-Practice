@@ -33,6 +33,13 @@ To Install Packages in different Envs :
 conda install {pkg-name} ; example :- seaborn
 ```
 
+To Add Channels in Anaconda : 
+```
+conda config --add channels {channel-name} ; ex:- conda-forge
+
+conda config --show channels
+```
+
 
 
 © 2022 Abhijay Rajvansh, All rights reserved.
