@@ -30,7 +30,7 @@ Note: *Pyhton version may vary for your system*
 
 To Install Packages in different Envs :
 ```
-conda install {pkg-name} ; example :- seaborn
+conda install {pkg-name} ; example :- seaborn, google-api-python-client
 ```
 
 To Add Channels in Anaconda : 
