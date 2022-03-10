@@ -8,8 +8,9 @@ Professors in charge: Dr.P.Velmurugan & Dr.S.Godfrey Winster
 
 To Activate :
 ```
-conda activate
+conda activate {ENV_NAME}
 ```
+Note: {ENV_NAME} By default is base
 
 To Deactivate : 
 ```
