@@ -28,6 +28,11 @@ conda create --name {ENV-NAME} python=3.9
 ```
 Note: *Pyhton version may vary for your system*
 
+To Install Packages in different Envs :
+```
+conda install {pkg-name} ; example :- seaborn
+```
+
 
 
 © 2022 Abhijay Rajvansh, All rights reserved.
