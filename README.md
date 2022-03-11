@@ -9,6 +9,7 @@ Professors in charge: Dr.P.Velmurugan & Dr.S.Godfrey Winster
 To Activate :
 ```
 conda activate {ENV_NAME}
+conda create --name EXP-env python=3.9
 ```
 Note: {ENV_NAME} By default is base
 
