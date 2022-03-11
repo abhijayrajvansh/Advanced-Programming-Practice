@@ -25,11 +25,8 @@ conda env list
 To Create a Virtual Env :
 ```
 conda create --name {ENV-NAME} python=3.9
-
 # TO REMOVE
-
 conda env remove -n ENV_NAME
-
 ```
 Note: *Pyhton version may vary for your system*
 
@@ -41,11 +38,8 @@ conda install {pkg-name} ; example :- seaborn, google-api-python-client
 To Add Channels in Anaconda : 
 ```
 conda config --add channels {channel-name} ; ex:- conda-forge
-
 conda config --show channels
-
 conda config --get channels
-
 ```
 
 
