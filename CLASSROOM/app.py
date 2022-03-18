@@ -1,12 +1,8 @@
-s = input("Enter the string: ")
-num = 0
-alpha = 0
+value = str(12345)
 
-for i in s:
-    if i.isalpha():
-        alpha += 1
-    elif i.isnumeric():
-        num += 1
-
-print("Letters: " + (alpha))
-print("Digits: " + (num))
+for num in value:
+    num = int(num)
+    if num % 2 != 0:
+        print("odd")
+    else:
+        print("even")
