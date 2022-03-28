@@ -1,4 +1,8 @@
-import pandas
+value = str(12345)
 
-print("\nHello World\n")
-
+for num in value:
+    num = int(num)
+    if num % 2 != 0:
+        print("odd")
+    else:
+        print("even")
